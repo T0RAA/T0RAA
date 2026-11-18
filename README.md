@@ -1,57 +1,46 @@
-<h1 align="center">Hi, I'm Tora 👋</h1>
+# Tora Matsuda
 
-<p align="center">
-  I build things where music, people and machine learning meet.<br/>
-  Right now that's <b><a href="https://tastemate.me">TasteMate</a></b>, a live social music app.
-</p>
+**Software engineer · AI/ML · Cybersecurity.** UC Santa Cruz CS senior, graduating December 2026, based in the SF Bay Area.  
+I research AI safety in autonomous vehicles, tutor AI and algorithms, and build products where people, music and machine learning meet.
 
-<p align="center">
-  <a href="https://t0raa.github.io"><img src="https://img.shields.io/badge/portfolio-t0raa.github.io-111?style=flat-square" alt="Portfolio"/></a>
-  <a href="https://tastemate.me"><img src="https://img.shields.io/badge/building-TasteMate-1DB954?style=flat-square" alt="TasteMate"/></a>
-</p>
+Looking for full-time **software engineering, ML infrastructure and cybersecurity** roles starting in 2027.
 
----
-
-### 🎧 What I'm building
-
-**[TasteMate](https://tastemate.me)** is Letterboxd depth, Find My presence and Spotify Blend matching in one app.
-The map is the product: you see who's listening nearby, what it feels like, and you join in.
-It's about the *why* behind what you play, not just what or how much.
-
-- **Web:** React + Vite, a Python backend on Railway, Postgres on Supabase
-- **iOS:** a native app through Capacitor, with Apple Music via MusicKit
-- **Feel engine:** tempo and spectrum analysis instead of gated audio-feature APIs, used to match people by how their music *feels*
-
-### 🛠 Other things I've made
-
-| Project | What it is |
-| --- | --- |
-| **tip-of-my-ear** | Segment-first audio similarity search for DJs and sample diggers |
-| **personal-music-recommender** | Local music recommendation experiments, evaluation and trained models |
-| **tailnet-tripwire** | Detects, explains and contains hijacked AI agents on a tailnet (Cyberdefense Hackathon, Oct 2026) |
-| **jobpipe** | Turns job alerts into a ranked queue with a tailored one-page resume per posting |
-| [**aiea-lab**](https://github.com/T0RAA/aiea-lab) | Robust autonomous vehicles research at the AIEA lab, with CARLA safety and decision-latency experiments |
-| [**TL**](https://github.com/T0RAA/TL) | Transfer-learning challenge for CSE 144 Applied ML |
-| [**SB**](https://github.com/T0RAA/SB) | SlugBoard |
-| [**flixer-site**](https://github.com/T0RAA/flixer-site) | Home page, privacy policy and terms for the Flixer app |
-
-### 🧰 Tools I reach for
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-### 💭 Lately I've been thinking about
-
-> Music can feel isolating: headphones on, eyes down. What if it were the thing that started the conversation instead?
+[![Portfolio](https://img.shields.io/badge/Portfolio-t0raa.github.io-111?style=flat-square)](https://t0raa.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-t0ra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/t0ra)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555?style=flat-square)](https://t0raa.github.io/tora-matsuda-resume.pdf)
 
 ---
 
-<p align="center"><i>Feelings as frequency.</i></p>
+### 🎓 Education
+
+**B.A. in Computer Science**, University of California, Santa Cruz · *Sep 2022 – Dec 2026*  
+Algorithms, AI, deep learning, databases, distributed, parallel and concurrent systems, network programming, security and cryptography.
+
+### 💼 Experience
+
+**Undergraduate Researcher, AV Ethics & Safety**, AIEA Lab, UC Santa Cruz · *Jan 2026 – present*  
+Built the team's CARLA experiment pipeline on the Nautilus Kubernetes cluster to measure how AI decision latency changes collision outcomes, for a paper in preparation. Earlier, benchmarked PPO, DDPG and SAC across CARLA and Gymnasium.
+
+**AI & Algorithms Reader / Tutor**, UCSC Baskin Engineering · *Sep 2026 – present*  
+CSE 140 (Artificial Intelligence) and CSE 102 (Analysis of Algorithms).
+
+**Data Structures & Algorithms Reader / Tutor**, UCSC Baskin Engineering · *Jan – Apr 2026*  
+Graded 500+ submissions for 100+ students.
+
+### 🛠 What I build
+
+- **Social and music products:** a live social music app on web and iOS, plus audio-similarity and recommendation tools
+- **Applied ML:** small-data image classification (27th on a class Kaggle challenge), reinforcement learning, retrieval-grounded LLMs
+- **Security:** grounded LLM tooling for security research, AI-agent intrusion detection (hackathon), CTFs
+- **Tools for people:** campus event discovery, version history for music projects, agent-driven automation
+
+Details live in the repos and on my [portfolio](https://t0raa.github.io).
+
+### 🧰 Skills
+
+**Languages:** Python · C/C++ · JavaScript · TypeScript · SQL · Bash  
+**ML & AI:** PyTorch · Hugging Face · scikit-learn · RAG · reinforcement learning · LLM evaluation  
+**Security:** MITRE ATT&CK · Wireshark · nmap · hashcat · Kali Linux · cryptography  
+**Products & infra:** React · FastAPI · PostgreSQL · Supabase · Capacitor · Docker · Kubernetes · CI/CD  
+
+**Languages spoken:** English and Japanese (native), Spanish (basic)
